@@ -91,6 +91,9 @@ pip install pandas openpyxl
 * Attendance dashboard visualization
 * Streamlit web application
 
+## OUTPUT
+<img width="1878" height="808" alt="Output" src="https://github.com/user-attachments/assets/4a722816-4d69-4c99-b92f-98f0de80e1f3" />
+
 ## Author
 
 **Thulluru Saisree**
